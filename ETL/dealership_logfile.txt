@@ -1,0 +1,16 @@
+12:18:19-Feb-06-2023,started the ETL process
+12:18:19-Feb-06-2023,started the extract step
+12:18:19-Feb-06-2023,completed extraction step
+12:18:19-Feb-06-2023,started the  transformation step
+13:37:29-Feb-06-2023,started the ETL process
+13:37:29-Feb-06-2023,started the extract step
+13:37:29-Feb-06-2023,completed extraction step
+13:37:29-Feb-06-2023,started the  transformation step
+14:19:59-Feb-06-2023,started the ETL process
+14:19:59-Feb-06-2023,started the extract step
+14:19:59-Feb-06-2023,completed extraction step
+14:19:59-Feb-06-2023,started the  transformation step
+14:19:59-Feb-06-2023,completed transformating data 
+14:19:59-Feb-06-2023,started the data load process
+14:19:59-Feb-06-2023,completed the load process
+14:19:59-Feb-06-2023,ETL process has been completed
